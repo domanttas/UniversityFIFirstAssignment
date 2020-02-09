@@ -34,3 +34,6 @@ print(day_data.head())
 day_data.plot(title='DayData', y='Close', x='Date', color='Green')
 plt.xlabel('Day')
 plt.ylabel('Price')
+
+
+# %%
